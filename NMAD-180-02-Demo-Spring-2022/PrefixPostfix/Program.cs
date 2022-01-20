@@ -9,10 +9,11 @@ namespace PrefixPostfix
             int x = 5;
             int j = 5;
 
+
             //  Prefix
             int p = ++j; // j is increment before assigned to p
 
-            Console.WriteLine("prefix, should be 6: {0}",j);  // This is 6
+            Console.WriteLine("prefix, should be 6: {0}",p);  // This is 6
 
             //  Postfix
             int y = x++; //x is assigned to y then x increment its value by 1
