@@ -1,0 +1,15 @@
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\bin\Debug\net5.0\Inputs.exe
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\bin\Debug\net5.0\Inputs.deps.json
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\bin\Debug\net5.0\Inputs.runtimeconfig.json
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\bin\Debug\net5.0\Inputs.runtimeconfig.dev.json
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\bin\Debug\net5.0\Inputs.dll
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\bin\Debug\net5.0\ref\Inputs.dll
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\bin\Debug\net5.0\Inputs.pdb
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\Inputs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\Inputs.AssemblyInfoInputs.cache
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\Inputs.AssemblyInfo.cs
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\Inputs.csproj.CoreCompileInputs.cache
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\Inputs.dll
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\ref\Inputs.dll
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\Inputs.pdb
+C:\Users\kscics\source\repos\NMAD-180-02-2215-Sample-Codes\NMAD-180-02-Demo-Spring-2022\Inputs\obj\Debug\net5.0\Inputs.genruntimeconfig.cache
