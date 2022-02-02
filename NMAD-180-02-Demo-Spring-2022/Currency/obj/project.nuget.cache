@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xv5kgIm8nmJzC0BY6KMLBH5nfabusdbERQdFT5DP4HjSD4WrKR1R+ljH68LMHyP3ZX/UXMQ731RZEjTAYhK/rw==",
+  "dgSpecHash": "CojrjLRrgCE8yr8Wd1VhY6vQA8YRD2DGRDJ/EPXGcRvqCuFEFo3lgmVrfAwp9/gAVToJAKRzU0ol2iJNCan3cA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kscics\\source\\repos\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\Currency\\Currency.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
