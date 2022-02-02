@@ -29,56 +29,45 @@ namespace Decisions
             }
 
 
-            //const string USERNAME = "super";
-            //const string PASSWORD = "passy";
-            //const int DUO = 12354;
-
-            //Console.Write("Enter your username:");
-            //string username = Console.ReadLine();
-
-            //Console.Write("Enter your password:");
-            //string password = Console.ReadLine();
-
-            //Console.Write("Enter duo code:");
-            //int duo = int.Parse(Console.ReadLine());
-
-            //if(username== USERNAME && password==PASSWORD && duo == DUO)
-            //    Console.WriteLine("Welcome master!");
-            //else
-            //    Console.WriteLine("Invalid creds!");
-
-            //if(username == USERNAME)
-            //    if(password==PASSWORD)
-            //        if(duo==DUO)
-            //            Console.WriteLine("Welcome master!");
-            //        else
-            //            Console.WriteLine("Invalid duo code");
-            //    else
-            //        Console.WriteLine("You are not allowed here.. nice try!");
-            //else
-            //    Console.WriteLine("Incorrect username or password");
             
-            //const int TOP_SECRET_PIN = 5555;
-            //const int TOP_SECRET_PIN2 = 5551;
+            const string USERNAME = "super";
+            const string PASSWORD = "passy";
+            const int DUO = 12354;
 
-            //Console.Title = "AWESOME ATM";
+            // one line if statement example
+            Console.Write("Enter your username:");
+            string username = Console.ReadLine();
 
-            //Console.Write("Enter your pin:");
-            //int inputPin = int.Parse(Console.ReadLine());
+            Console.Write("Enter your password:");
+            string password = Console.ReadLine();
 
-            //if(inputPin == TOP_SECRET_PIN)
-            //    Console.WriteLine("Here is your money, $10000000000");
-            //else if(inputPin==TOP_SECRET_PIN2)
-            //    Console.WriteLine("Here is your money $100");
+            Console.Write("Enter duo code:");
+            int duo = int.Parse(Console.ReadLine());
 
-            //else
-            //    Console.WriteLine("Wrong pin... No money for ya!!");
+            if (username == USERNAME && password == PASSWORD && duo == DUO)
+                Console.WriteLine("Welcome master!");
+            else
+                Console.WriteLine("Invalid creds!");
 
+            //nested if statemet example
+            Console.Write("Enter your username:");
+            username = Console.ReadLine();
 
+            Console.Write("Enter your password:");
+            password = Console.ReadLine();
 
-            ////use to pause the program so we can see the title
-            //Console.WriteLine("Press any key to exit");
-            //Console.ReadKey(true);
+            Console.Write("Enter duo code:");
+            duo = int.Parse(Console.ReadLine());
+            if (username == USERNAME)
+                if (password == PASSWORD)
+                    if (duo == DUO)
+                        Console.WriteLine("Welcome master!");
+                    else
+                        Console.WriteLine("Incorrect duo code");
+                else
+                    Console.WriteLine("Incorrect password");
+            else
+                Console.WriteLine("Incorrect username");
         }
     }
 }
