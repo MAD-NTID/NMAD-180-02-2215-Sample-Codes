@@ -8,14 +8,19 @@ namespace scoped
         {
 
             //scoped example
-            //if (true)
-            //{
-            //    int number = 1;
-            //} else
-            //{
-            //    int number = 1;
-            //}
+            if (true)
+            {
+                int number = 1;
+                Console.WriteLine($"The number is {number}");
+            }
 
+            if(true)
+            {
+                int number = 5;
+                Console.WriteLine($"Hello I am number: {number}.");
+            }
+
+            //not operator example !
             bool isRaining = false;
             isRaining = !isRaining;
             isRaining = !isRaining;
