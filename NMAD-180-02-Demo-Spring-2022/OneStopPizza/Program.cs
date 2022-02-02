@@ -57,7 +57,7 @@ namespace OneStopPizza
                         Console.WriteLine("Invalid option!");
                         break;
                 }
-                -
+                
                 Console.Write("Do you want pepperoni (Y/N):");
                 if(char.TryParse(Console.ReadLine().ToUpper(), out char isPepperoni)){
                     if (isPepperoni == 'Y')
