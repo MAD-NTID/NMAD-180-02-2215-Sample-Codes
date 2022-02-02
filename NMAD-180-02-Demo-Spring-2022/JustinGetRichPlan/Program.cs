@@ -16,32 +16,34 @@ namespace JustinGetRichPlan
         {
             const double COMMISSION_RATE = 0.07;
             const double MINIMUM_COMMISSION = 10000;
+            double userInput = 0;
 
 
             //Use Environment.Exit to quit the program 
 
-            //Console.WriteLine("Invalid input.. Exiting the program...");
-            //Environment.Exit(0);
 
             //example of using char Y / N
 
-            //Console.WriteLine("Did you sell more than $1000 this month? (Y/N): ");
-            //char response = char.Parse(Console.ReadLine());
+            Console.WriteLine("Did you sell more than $1000 this month? (Y/N): ");
+            char response = char.Parse(Console.ReadLine());
 
-            //if(response == 'Y' || response == 'y')
-            //{
-            //    Console.Write("How much did you help sell that car for? ");
-            //    double userInput = double.Parse(Console.ReadLine());
-            //    double profit = userInput * COMMISSION_RATE;
-            //    Console.WriteLine($"Justin made {profit:C} commission.");
-            //} else
-            //{
-            //    Console.WriteLine("Better luck next time Justin!");
-            //}
+            //char are case sensitive 
+            if (response == 'Y' || response == 'y')
+            {
+                Console.Write("How much did you help sell that car for? ");
+                userInput = double.Parse(Console.ReadLine());
+                double profit = userInput * COMMISSION_RATE;
+                Console.WriteLine($"Justin made {profit:C} commission.");
+            }
+            else
+            {
+                Console.WriteLine("Better luck next time Justin!");
+            }
 
 
+            //without character
             Console.Write("How much did you help sell that car for? ");
-            double userInput = double.Parse(Console.ReadLine());
+            userInput = double.Parse(Console.ReadLine());
 
             if (userInput < MINIMUM_COMMISSION)
             {

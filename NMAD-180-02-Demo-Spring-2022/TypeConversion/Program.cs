@@ -12,7 +12,7 @@ namespace TypeConversion
             Console.WriteLine(numberA);
 
 
-
+            //explicity conversion
             double numberB = 4.77777774;
             int numberC = (int)numberB;
             int numberD = Convert.ToInt32(numberB);
