@@ -6,20 +6,12 @@ namespace inception
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a number:");
-            int option = int.Parse(Console.ReadLine());
+            int number1 = 9;
+            int number2 = 10;
 
-            switch (option)
-            {
-   
-                case 1:
-                case 2:
-                    Console.WriteLine($"I am  option {option} and I jumped in the dream #2");
-                    break;
-                default:
-                    Console.WriteLine("I have no idea who you are.... turn around");
-                    break;
-            }
+            string someMagic = "99";
+
+            Console.WriteLine(someMagic + (number1 + number2));
         }
     }
 }
