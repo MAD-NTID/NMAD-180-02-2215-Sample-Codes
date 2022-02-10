@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "yapFmUpn++xu7pSonbCiVU332xFVlTfXBOgXpc1yWryRiu+wcxtW22qay07fIOi64irWZzswSiko0+H6QJd9sQ==",
+  "dgSpecHash": "taxa8M4gcB9yv8j35TJIkFxGSFfMOv8FjdKPnNABswKZVzEC+pZGoGAUX8CKDxDv6WPmmwtEFwRrfgW6uPQjsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kscics\\source\\repos\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\TypeConversion\\TypeConversion.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\TypeConversion\\TypeConversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }
