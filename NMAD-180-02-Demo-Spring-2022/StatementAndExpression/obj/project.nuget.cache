@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+unIc8zUVyctMn1lnsV5rnQlsNaKVB7Sw8T3xQ2wCoNqAjLEw1HzFx5shoA417oWmp7e1ZZ0HQvGCcc9dxc5w==",
+  "dgSpecHash": "HBkN1n5pSACQAA7UjlIhaWYAIA2soyHm2bA4DRZagHx4JriOfKrrLHJtqSAOKjnZEyM4sqvLv+bE6qpLERwjgA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\StatementAndExpression\\StatementAndExpression.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

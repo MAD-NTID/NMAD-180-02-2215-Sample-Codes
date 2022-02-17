@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/K7lT5NlYPU2JxnIqSv3fHvHKU7PbR1IhdCqT7zpi7wjo5T+Qjdk3NiUZiP9Oe4bcPuRn6M20vuLIRjiv8D3Mg==",
+  "dgSpecHash": "dewAZ3547JKLtOo6k5AMHgnjxtJuDACL5uhomeTt5BELrt8TXFdbNwxuDwyho9wQB0NqXXZtsgUVj4/mjvAvKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\HelloWorld\\HelloWorld.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

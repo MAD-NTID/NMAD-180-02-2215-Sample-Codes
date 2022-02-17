@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o9henGrOxtZgi0jN4qn+D//J4xUprjhWUKqxQqWZSTlTFihQG3rX7reSoAZr1XLdwFewyprjv/4OTenRIrQLlw==",
+  "dgSpecHash": "oEfuTU6tTonfyk90emj3rUj/OEvpUf03DIAOlKMVL3+NQ7CL/jKPK6eylvpcpvWoO4LxiGxnDcmyk2DIkTuwag==",
   "success": true,
   "projectFilePath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

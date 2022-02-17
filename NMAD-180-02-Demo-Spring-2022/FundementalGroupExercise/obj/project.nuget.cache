@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCq03KlGoEACiuNikS2MK4NUSP4+ohvmaDAi6+bnmkhnk/XGd39MNL3vrhpHqJjCa7QS76cmHI4A3/c6IuKH3g==",
+  "dgSpecHash": "GdLk5BpylkGDFXehlhbAQSU4vC+k3OHVOX+1HCcUhzKO11wJDdmlmZx0N4nVmou2fePQSzI5RyhJUfBVtnFqVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\FundementalGroupExercise\\FundementalGroupExercise.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

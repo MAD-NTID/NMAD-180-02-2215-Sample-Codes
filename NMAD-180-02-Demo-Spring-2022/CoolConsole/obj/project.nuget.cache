@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NW/fRMvjATL9cB+B0X+TK89Z2jdBEfDsuIrJcLDHLeMAr4pGC5B3LRQVpN8YdBZD78Suenins1tUCyhdwzuGUg==",
+  "dgSpecHash": "LGRD62LNOPfY2xUu8TKOELsCipddjfYUtxj9Aa3ZdRJNafhNum2/TJqythsBthMG9os/RxZlmCsIfj+tVNWSsQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\CoolConsole\\CoolConsole.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
