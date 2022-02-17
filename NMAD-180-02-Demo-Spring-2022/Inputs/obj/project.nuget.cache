@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "utDcD2HhluIKkLMOfVIORWrwFu03jJYndmZ8RKHjE4LZqxO/f3fo4kaarIa6Vm6y6xNx1nbBd7+kJLspx4S8Vg==",
+  "dgSpecHash": "u+UNECjxe3DdO7pjV9WeSChZPMMO/VnHlsoKooo7PS5/LsDFRzo5UADTjEVDsXKI06XR/32KL33EmlrE45mRrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\Inputs\\Inputs.csproj",
+  "projectFilePath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\Inputs\\Inputs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],

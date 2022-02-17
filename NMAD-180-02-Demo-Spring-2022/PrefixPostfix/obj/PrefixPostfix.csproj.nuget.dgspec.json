@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj": {}
+    "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj": {
+    "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj",
+        "projectUniqueName": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj",
         "projectName": "PrefixPostfix",
-        "projectPath": "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj",
+        "projectPath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\PrefixPostfix.csproj",
         "packagesPath": "C:\\Users\\kscics\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\obj\\",
+        "outputPath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\PrefixPostfix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

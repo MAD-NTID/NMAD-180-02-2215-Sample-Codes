@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cXHSDRr/tyujBGqyqg+fLUay3nM44yj1+zidHrUNBRqh5a3Dn65Ou9jNOFfcEPGdMcJtnsetvj1zabT/UQCMmg==",
+  "dgSpecHash": "VGzJ952RkiGQF9AnjgmnZEshVp3vQ/6NWFblStXvjoYuZvjLXCHjmGwZKPiDRLA9kM465ZcytRtbXEl8sRlwWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kscics\\source\\repos\\pf1-samples\\NMAD-180-02-Demo-Spring-2022\\Constant\\Constant.csproj",
+  "projectFilePath": "C:\\Users\\kscics\\Desktop\\NMAD-180-02-2215-Sample-Codes\\NMAD-180-02-Demo-Spring-2022\\Constant\\Constant.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kscics\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
   ],
