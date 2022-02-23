@@ -51,7 +51,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foreach", "Foreach\Foreach.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ParallelArray", "ParallelArray\ParallelArray.csproj", "{77984033-CCA0-46B8-8481-F6DC22DC69B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreFunWithWhile", "MoreFunWithWhile\MoreFunWithWhile.csproj", "{29D231C3-E7D8-435B-8CC2-7C03E00984B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreFunWithWhile", "MoreFunWithWhile\MoreFunWithWhile.csproj", "{29D231C3-E7D8-435B-8CC2-7C03E00984B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method", "Method\Method.csproj", "{F87625A7-5ED2-4DDE-9954-0CCF17BB9CED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{29D231C3-E7D8-435B-8CC2-7C03E00984B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29D231C3-E7D8-435B-8CC2-7C03E00984B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29D231C3-E7D8-435B-8CC2-7C03E00984B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F87625A7-5ED2-4DDE-9954-0CCF17BB9CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F87625A7-5ED2-4DDE-9954-0CCF17BB9CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F87625A7-5ED2-4DDE-9954-0CCF17BB9CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F87625A7-5ED2-4DDE-9954-0CCF17BB9CED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
