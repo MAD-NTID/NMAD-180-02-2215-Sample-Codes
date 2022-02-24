@@ -65,6 +65,9 @@ namespace Method
 
         }
 
+        /**
+         * This method takes two numbers, add them and return the result 
+         */
         private static int AddTwoNumbers(int num1, int num2)
         {
             int result = num1 + num2;
@@ -72,6 +75,10 @@ namespace Method
             return result;
         }
 
+        /**
+         * This method takes the username and password. If they match, true is returned otherwise
+         * false is return
+         */
         private static bool login(string username, string password)
         {
             if (username == "admin" && password == "topSecret3")
