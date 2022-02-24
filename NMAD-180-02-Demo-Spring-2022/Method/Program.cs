@@ -9,9 +9,39 @@ namespace Method
         {
 
 
+            /***********************************************
+             * EXAMPLE OF ADDING TWO NUMBERS WITH A METHOD 
+             * 
+             * *********************************************/
+
+            //we can create variables
+            int numberOne = 5;
+            int numberTwo = 6;
+            int res = AddTwoNumbers(numberTwo, numberOne);
+            Console.WriteLine(res);
+
+            Console.WriteLine("\n");
+
+
+            //we can also pass the number to the variable directly
+            Console.WriteLine(AddTwoNumbers(5,6));
+
+
+            //we can loop through the array and add 5 to each numbers
+            int[] numbers = { 1, 2, 3, 4 };
+
+            Console.WriteLine("\n");
+
+            for(int i = 0; i< numbers.Length; i++)
+            {
+                Console.WriteLine(AddTwoNumbers(numbers[i], 5));
+            }
+
+
+            //Example of using a method to login a user
             Console.WriteLine("Welcome to Space force!!");
-            
-            while(true)
+
+            while (true)
             {
                 Console.Write("Enter the username:");
                 string user = Console.ReadLine();
@@ -19,7 +49,7 @@ namespace Method
                 Console.WriteLine("Enter the password:");
                 string pass = Console.ReadLine();
 
-                if(login(pass, user))
+                if (login(pass, user))
                 {
                     break;
                 }
@@ -32,26 +62,7 @@ namespace Method
             }
 
             Console.WriteLine("Welcome to space force top secret floor!");
-            int numberOne = 5;
-            int numberTwo = 6;
 
-            int res = AddTwoNumbers(numberTwo, numberOne);
-            Console.WriteLine(res);
-
-            Console.WriteLine("\n");
-
-            Console.WriteLine(AddTwoNumbers(5,6));
-
-
-            int[] numbers = { 1, 2, 3, 4 };
-
-            Console.WriteLine("\n");
-
-            for(int i = 0; i< numbers.Length; i++)
-            {
-                Console.WriteLine(AddTwoNumbers(numbers[i], 5));
-            }
- 
         }
 
         private static int AddTwoNumbers(int num1, int num2)
