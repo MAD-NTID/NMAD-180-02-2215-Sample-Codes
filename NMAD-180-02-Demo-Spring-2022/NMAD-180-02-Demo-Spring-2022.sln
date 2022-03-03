@@ -59,7 +59,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunWithMethods", "FunWithMe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTheory", "StringTheory\StringTheory.csproj", "{80BE2398-62FC-41F0-B457-A406137689BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{D26BBA88-D291-4380-9102-F12E73C53EBF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{D26BBA88-D291-4380-9102-F12E73C53EBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPv2", "OOPv2\OOPv2.csproj", "{FC88B779-762A-4182-8702-D08D122C9C9D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +185,10 @@ Global
 		{D26BBA88-D291-4380-9102-F12E73C53EBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D26BBA88-D291-4380-9102-F12E73C53EBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D26BBA88-D291-4380-9102-F12E73C53EBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC88B779-762A-4182-8702-D08D122C9C9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC88B779-762A-4182-8702-D08D122C9C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC88B779-762A-4182-8702-D08D122C9C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC88B779-762A-4182-8702-D08D122C9C9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
