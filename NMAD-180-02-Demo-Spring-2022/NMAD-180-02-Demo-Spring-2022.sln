@@ -61,7 +61,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringTheory", "StringTheor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassIntro", "ClassIntro\ClassIntro.csproj", "{D26BBA88-D291-4380-9102-F12E73C53EBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPv2", "OOPv2\OOPv2.csproj", "{FC88B779-762A-4182-8702-D08D122C9C9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOPv2", "OOPv2\OOPv2.csproj", "{FC88B779-762A-4182-8702-D08D122C9C9D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentGradeTrackingSystem", "StudentGradeTrackingSystem\StudentGradeTrackingSystem.csproj", "{B3DC0956-0F79-4F7E-8EAF-E6D3E8F7AAFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameOOP", "GameOOP\GameOOP.csproj", "{0C0FC92F-F79D-4D3F-B47C-85CC6707F656}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -189,6 +193,14 @@ Global
 		{FC88B779-762A-4182-8702-D08D122C9C9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC88B779-762A-4182-8702-D08D122C9C9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC88B779-762A-4182-8702-D08D122C9C9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3DC0956-0F79-4F7E-8EAF-E6D3E8F7AAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3DC0956-0F79-4F7E-8EAF-E6D3E8F7AAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3DC0956-0F79-4F7E-8EAF-E6D3E8F7AAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3DC0956-0F79-4F7E-8EAF-E6D3E8F7AAFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0FC92F-F79D-4D3F-B47C-85CC6707F656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0FC92F-F79D-4D3F-B47C-85CC6707F656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0FC92F-F79D-4D3F-B47C-85CC6707F656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0FC92F-F79D-4D3F-B47C-85CC6707F656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
