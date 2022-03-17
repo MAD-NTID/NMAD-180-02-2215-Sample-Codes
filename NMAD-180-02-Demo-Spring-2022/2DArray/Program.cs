@@ -13,8 +13,8 @@ namespace _2DArray
             const string X = "X";
             const string O = "O";
             string[,] board = {
-                { X, O, X},
-                {O,O,X},
+                { X, O, O},
+                {O,X,X},
                 {X,O,X }
             };
 
