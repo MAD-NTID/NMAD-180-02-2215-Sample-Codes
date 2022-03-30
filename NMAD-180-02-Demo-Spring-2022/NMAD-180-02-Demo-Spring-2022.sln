@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentGradeTrackingSystem"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOOP", "GameOOP\GameOOP.csproj", "{0C0FC92F-F79D-4D3F-B47C-85CC6707F656}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DArray", "2DArray\2DArray.csproj", "{A3CE101F-76E4-4D0E-929F-A0B390C966A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArray", "2DArray\2DArray.csproj", "{A3CE101F-76E4-4D0E-929F-A0B390C966A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWIthEnum", "FunWIthEnum\FunWIthEnum.csproj", "{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{A3CE101F-76E4-4D0E-929F-A0B390C966A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3CE101F-76E4-4D0E-929F-A0B390C966A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3CE101F-76E4-4D0E-929F-A0B390C966A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
