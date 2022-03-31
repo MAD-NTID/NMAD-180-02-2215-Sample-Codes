@@ -69,7 +69,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameOOP", "GameOOP\GameOOP.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArray", "2DArray\2DArray.csproj", "{A3CE101F-76E4-4D0E-929F-A0B390C966A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWIthEnum", "FunWIthEnum\FunWIthEnum.csproj", "{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunWIthEnum", "FunWIthEnum\FunWIthEnum.csproj", "{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithList", "FunWithList\FunWithList.csproj", "{D87F22E8-ECE7-4813-B531-D11997260E07}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,10 @@ Global
 		{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87F22E8-ECE7-4813-B531-D11997260E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87F22E8-ECE7-4813-B531-D11997260E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87F22E8-ECE7-4813-B531-D11997260E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87F22E8-ECE7-4813-B531-D11997260E07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
