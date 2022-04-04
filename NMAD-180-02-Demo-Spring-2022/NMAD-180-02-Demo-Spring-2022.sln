@@ -71,7 +71,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2DArray", "2DArray\2DArray.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunWIthEnum", "FunWIthEnum\FunWIthEnum.csproj", "{7AB2B5F4-C4F2-4ABF-8564-5428730237A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FunWithList", "FunWithList\FunWithList.csproj", "{D87F22E8-ECE7-4813-B531-D11997260E07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunWithList", "FunWithList\FunWithList.csproj", "{D87F22E8-ECE7-4813-B531-D11997260E07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheKing3.0", "TheKing3.0\TheKing3.0.csproj", "{AA03C74D-B7B2-478B-B322-6677C9A5BE80}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +221,10 @@ Global
 		{D87F22E8-ECE7-4813-B531-D11997260E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D87F22E8-ECE7-4813-B531-D11997260E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D87F22E8-ECE7-4813-B531-D11997260E07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA03C74D-B7B2-478B-B322-6677C9A5BE80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA03C74D-B7B2-478B-B322-6677C9A5BE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA03C74D-B7B2-478B-B322-6677C9A5BE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA03C74D-B7B2-478B-B322-6677C9A5BE80}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
