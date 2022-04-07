@@ -73,7 +73,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunWIthEnum", "FunWIthEnum\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunWithList", "FunWithList\FunWithList.csproj", "{D87F22E8-ECE7-4813-B531-D11997260E07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheKing3.0", "TheKing3.0\TheKing3.0.csproj", "{AA03C74D-B7B2-478B-B322-6677C9A5BE80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheKing3.0", "TheKing3.0\TheKing3.0.csproj", "{AA03C74D-B7B2-478B-B322-6677C9A5BE80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Writing to file", "Writing to file\Writing to file.csproj", "{5C749008-541A-4D96-8CD0-DF912089B57F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissor", "RockPaperScissor\RockPaperScissor.csproj", "{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +229,14 @@ Global
 		{AA03C74D-B7B2-478B-B322-6677C9A5BE80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA03C74D-B7B2-478B-B322-6677C9A5BE80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA03C74D-B7B2-478B-B322-6677C9A5BE80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C749008-541A-4D96-8CD0-DF912089B57F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C749008-541A-4D96-8CD0-DF912089B57F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C749008-541A-4D96-8CD0-DF912089B57F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C749008-541A-4D96-8CD0-DF912089B57F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
