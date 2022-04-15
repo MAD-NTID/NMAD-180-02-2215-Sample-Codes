@@ -77,7 +77,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheKing3.0", "TheKing3.0\Th
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Writing to file", "Writing to file\Writing to file.csproj", "{5C749008-541A-4D96-8CD0-DF912089B57F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissor", "RockPaperScissor\RockPaperScissor.csproj", "{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissor", "RockPaperScissor\RockPaperScissor.csproj", "{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToSerializeOrNotToSerialize", "ToSerializeOrNotToSerialize\ToSerializeOrNotToSerialize.csproj", "{570B24A0-0E94-4EA2-A79C-DE1CC56A7EAC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08F60651-19DB-4AD5-8BA4-BAFFB5C33CF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570B24A0-0E94-4EA2-A79C-DE1CC56A7EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570B24A0-0E94-4EA2-A79C-DE1CC56A7EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570B24A0-0E94-4EA2-A79C-DE1CC56A7EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570B24A0-0E94-4EA2-A79C-DE1CC56A7EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
